@@ -9,4 +9,4 @@
 
 
 ### Результат
-![Результат](C-4diagram.drawio.png)
+![Результат](C4-diagram1.drawio.png)
